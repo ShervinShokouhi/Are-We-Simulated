@@ -1,4 +1,4 @@
-# Are-We-Simulated
+# Are We Simulated؟
 Try to recap Truth, even its just a projection!
 
 This repository presents a conceptual exploration of the **simulation hypothesis**, proposing a two-layer model of the universe based on a set of foundational assumptions.
